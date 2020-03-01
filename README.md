@@ -1,38 +1,10 @@
 ## 海内存知己，天涯若比邻
 
-点击[微信公众号]( http://mp.weixin.qq.com/mp/homepage?__biz=MzU2ODgyMzMyNg==&hid=1&sn=e439419d47245c61b60000c842caa33b&scene=18#wechat_redirect
-) 即可跳转
+微信公众号[SUNIAZER]( http://mp.weixin.qq.com/mp/homepage?__biz=MzU2ODgyMzMyNg==&hid=1&sn=e439419d47245c61b60000c842caa33b&scene=18#wechat_redirect
+) 
+## 以下是功能介绍
 
-太无聊了
-
-### 分享一些有趣的东西吧
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Suniazer/suniazer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-功能[一]( https://suniazer.github.io)
+-功能[二]( https://suniazer.github.io)
+-功能[三]( https://suniazer.github.io)
+-<fontcolor="#DADADA">2020.3.1</font>
