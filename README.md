@@ -1,6 +1,6 @@
 ## 
 
-You can use the [editor on GitHub](http://mp.weixin.qq.com/mp/homepage？__biz=MzU2ODgyMzMyNg==&hid=1&sn=e439419d47245c61b60000c842caa33b&scene=18#wechat_redirect
+[微信公众号](http://mp.weixin.qq.com/mp/homepage%3F__biz=MzU2ODgyMzMyNg==&hid=1&sn=e439419d47245c61b60000c842caa33b&scene=18#wechat_redirect
 ) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
