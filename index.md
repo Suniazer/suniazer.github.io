@@ -10,7 +10,7 @@
 
 设定系统颜色：单击 选项（“标准”工具栏）或 工具 > 选项，选择 颜色。
 
-![image-20240824110952298](https://github.com/Suniazer/suniazer.github.io/tree/master/Data/image-20240824110952298.png)
+![image-20240824110952298](https://github.com/Suniazer/suniazer.github.io/blob/81071788a5ecba60bc62ef7460d84a3afa28231d/Data/image-20240824110952298.png)
 
 绘图界面背景颜色可以通过视图前导进行设置。绘图界面默认背景颜色可通过在任务窗格外观布景贴图选项卡中导览到某一指定布景右键单击设置为默认布景。
 
