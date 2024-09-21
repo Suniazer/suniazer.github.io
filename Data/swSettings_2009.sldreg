@@ -1,0 +1,425 @@
+REGEDIT4
+;SolidWorks Copy Settings Wizard
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\11_71]
+"fVirt"=dword:0000000b
+"key"=dword:00000047
+"cmd"=dword:00008025
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\15_80]
+"fVirt"=dword:0000000f
+"key"=dword:00000050
+"cmd"=dword:00008003
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\15_82]
+"fVirt"=dword:0000000f
+"key"=dword:00000052
+"cmd"=dword:00008032
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\15_83]
+"fVirt"=dword:0000000f
+"key"=dword:00000053
+"cmd"=dword:000080a5
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_65]
+"fVirt"=dword:00000013
+"key"=dword:00000041
+"cmd"=dword:00008110
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_66]
+"fVirt"=dword:00000013
+"key"=dword:00000042
+"cmd"=dword:00008538
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_67]
+"fVirt"=dword:00000013
+"key"=dword:00000043
+"cmd"=dword:00008009
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_68]
+"fVirt"=dword:00000013
+"key"=dword:00000044
+"cmd"=dword:00008044
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_72]
+"fVirt"=dword:00000013
+"key"=dword:00000048
+"cmd"=dword:00008215
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_77]
+"fVirt"=dword:00000013
+"key"=dword:0000004d
+"cmd"=dword:000094e3
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_78]
+"fVirt"=dword:00000013
+"key"=dword:0000004e
+"cmd"=dword:0000813d
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_81]
+"fVirt"=dword:00000013
+"key"=dword:00000051
+"cmd"=dword:00008053
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_82]
+"fVirt"=dword:00000013
+"key"=dword:00000052
+"cmd"=dword:00008005
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_83]
+"fVirt"=dword:00000013
+"key"=dword:00000053
+"cmd"=dword:0000805e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_84]
+"fVirt"=dword:00000013
+"key"=dword:00000054
+"cmd"=dword:00008159
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_87]
+"fVirt"=dword:00000013
+"key"=dword:00000057
+"cmd"=dword:0000812c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\19_88]
+"fVirt"=dword:00000013
+"key"=dword:00000058
+"cmd"=dword:00008157
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\23_80]
+"fVirt"=dword:00000017
+"key"=dword:00000050
+"cmd"=dword:00008007
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\23_82]
+"fVirt"=dword:00000017
+"key"=dword:00000052
+"cmd"=dword:00008077
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\23_83]
+"fVirt"=dword:00000017
+"key"=dword:00000053
+"cmd"=dword:000080a6
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\27_67]
+"fVirt"=dword:0000001b
+"key"=dword:00000043
+"cmd"=dword:00008362
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\27_76]
+"fVirt"=dword:0000001b
+"key"=dword:0000004c
+"cmd"=dword:00008361
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\27_77]
+"fVirt"=dword:0000001b
+"key"=dword:0000004d
+"cmd"=dword:000080a0
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\27_80]
+"fVirt"=dword:0000001b
+"key"=dword:00000050
+"cmd"=dword:00008151
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\27_82]
+"fVirt"=dword:0000001b
+"key"=dword:00000052
+"cmd"=dword:0000814e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\AddArray\27_83]
+"fVirt"=dword:0000001b
+"key"=dword:00000053
+"cmd"=dword:0000814d
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\SubArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate0\Custom Accelerators\SubArray\11_66]
+"fVirt"=dword:0000000b
+"key"=dword:00000042
+"cmd"=dword:00008025
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\11_71]
+"fVirt"=dword:0000000b
+"key"=dword:00000047
+"cmd"=dword:00008025
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\15_80]
+"fVirt"=dword:0000000f
+"key"=dword:00000050
+"cmd"=dword:00008003
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\15_82]
+"fVirt"=dword:0000000f
+"key"=dword:00000052
+"cmd"=dword:00008032
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\15_83]
+"fVirt"=dword:0000000f
+"key"=dword:00000053
+"cmd"=dword:000080a5
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_65]
+"fVirt"=dword:00000013
+"key"=dword:00000041
+"cmd"=dword:00008110
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_66]
+"fVirt"=dword:00000013
+"key"=dword:00000042
+"cmd"=dword:00008538
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_67]
+"fVirt"=dword:00000013
+"key"=dword:00000043
+"cmd"=dword:00008009
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_68]
+"fVirt"=dword:00000013
+"key"=dword:00000044
+"cmd"=dword:00008044
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_72]
+"fVirt"=dword:00000013
+"key"=dword:00000048
+"cmd"=dword:00008215
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_77]
+"fVirt"=dword:00000013
+"key"=dword:0000004d
+"cmd"=dword:000094e3
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_78]
+"fVirt"=dword:00000013
+"key"=dword:0000004e
+"cmd"=dword:0000813d
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_81]
+"fVirt"=dword:00000013
+"key"=dword:00000051
+"cmd"=dword:00008053
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_82]
+"fVirt"=dword:00000013
+"key"=dword:00000052
+"cmd"=dword:00008005
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_83]
+"fVirt"=dword:00000013
+"key"=dword:00000053
+"cmd"=dword:0000805e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_84]
+"fVirt"=dword:00000013
+"key"=dword:00000054
+"cmd"=dword:00008159
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_87]
+"fVirt"=dword:00000013
+"key"=dword:00000057
+"cmd"=dword:0000812c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\19_88]
+"fVirt"=dword:00000013
+"key"=dword:00000058
+"cmd"=dword:00008157
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\23_80]
+"fVirt"=dword:00000017
+"key"=dword:00000050
+"cmd"=dword:00008007
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\23_82]
+"fVirt"=dword:00000017
+"key"=dword:00000052
+"cmd"=dword:00008077
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\23_83]
+"fVirt"=dword:00000017
+"key"=dword:00000053
+"cmd"=dword:000080a6
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\27_67]
+"fVirt"=dword:0000001b
+"key"=dword:00000043
+"cmd"=dword:00008362
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\27_76]
+"fVirt"=dword:0000001b
+"key"=dword:0000004c
+"cmd"=dword:00008361
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\27_77]
+"fVirt"=dword:0000001b
+"key"=dword:0000004d
+"cmd"=dword:000080a0
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\27_80]
+"fVirt"=dword:0000001b
+"key"=dword:00000050
+"cmd"=dword:00008151
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\27_82]
+"fVirt"=dword:0000001b
+"key"=dword:00000052
+"cmd"=dword:0000814e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\AddArray\27_83]
+"fVirt"=dword:0000001b
+"key"=dword:00000053
+"cmd"=dword:0000814d
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\SubArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate1\Custom Accelerators\SubArray\11_66]
+"fVirt"=dword:0000000b
+"key"=dword:00000042
+"cmd"=dword:00008025
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\11_71]
+"fVirt"=dword:0000000b
+"key"=dword:00000047
+"cmd"=dword:00008025
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\15_80]
+"fVirt"=dword:0000000f
+"key"=dword:00000050
+"cmd"=dword:00008003
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\15_82]
+"fVirt"=dword:0000000f
+"key"=dword:00000052
+"cmd"=dword:00008032
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\15_83]
+"fVirt"=dword:0000000f
+"key"=dword:00000053
+"cmd"=dword:000080a5
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_65]
+"fVirt"=dword:00000013
+"key"=dword:00000041
+"cmd"=dword:00008110
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_66]
+"fVirt"=dword:00000013
+"key"=dword:00000042
+"cmd"=dword:00008538
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_67]
+"fVirt"=dword:00000013
+"key"=dword:00000043
+"cmd"=dword:00008009
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_68]
+"fVirt"=dword:00000013
+"key"=dword:00000044
+"cmd"=dword:00008044
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_72]
+"fVirt"=dword:00000013
+"key"=dword:00000048
+"cmd"=dword:00008215
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_77]
+"fVirt"=dword:00000013
+"key"=dword:0000004d
+"cmd"=dword:000094e3
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_78]
+"fVirt"=dword:00000013
+"key"=dword:0000004e
+"cmd"=dword:0000813d
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_81]
+"fVirt"=dword:00000013
+"key"=dword:00000051
+"cmd"=dword:00008053
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_82]
+"fVirt"=dword:00000013
+"key"=dword:00000052
+"cmd"=dword:00008005
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_83]
+"fVirt"=dword:00000013
+"key"=dword:00000053
+"cmd"=dword:0000805e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_84]
+"fVirt"=dword:00000013
+"key"=dword:00000054
+"cmd"=dword:00008159
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_87]
+"fVirt"=dword:00000013
+"key"=dword:00000057
+"cmd"=dword:0000812c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\19_88]
+"fVirt"=dword:00000013
+"key"=dword:00000058
+"cmd"=dword:00008157
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\23_80]
+"fVirt"=dword:00000017
+"key"=dword:00000050
+"cmd"=dword:00008007
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\23_82]
+"fVirt"=dword:00000017
+"key"=dword:00000052
+"cmd"=dword:00008077
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\23_83]
+"fVirt"=dword:00000017
+"key"=dword:00000053
+"cmd"=dword:000080a6
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\27_67]
+"fVirt"=dword:0000001b
+"key"=dword:00000043
+"cmd"=dword:00008362
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\27_76]
+"fVirt"=dword:0000001b
+"key"=dword:0000004c
+"cmd"=dword:00008361
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\27_77]
+"fVirt"=dword:0000001b
+"key"=dword:0000004d
+"cmd"=dword:000080a0
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\27_80]
+"fVirt"=dword:0000001b
+"key"=dword:00000050
+"cmd"=dword:00008151
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\27_82]
+"fVirt"=dword:0000001b
+"key"=dword:00000052
+"cmd"=dword:0000814e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\AddArray\27_83]
+"fVirt"=dword:0000001b
+"key"=dword:00000053
+"cmd"=dword:0000814d
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\SubArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SolidWorks 2009\Customization\tPlate2\Custom Accelerators\SubArray\11_66]
+"fVirt"=dword:0000000b
+"key"=dword:00000042
+"cmd"=dword:00008025
