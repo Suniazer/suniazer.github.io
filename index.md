@@ -1,8 +1,9 @@
-# SolidWorks随笔
-
 > [!NOTE]
 >
 > 2024.08 SolidWorks 2024
+
+![魔界复兴](Games/play.jahysama-anime.com/index.html)
+![变身派蒙的飞行挑战](Games/play.jahysama-anime.com/index.html)
 
 ## 一、用户界面
 
@@ -263,7 +264,7 @@ internal class Program
 “D1@Sketch1@part_outside.Part” = “D2@Sketch1@part_inside.Part” + 2
 “D2@Sketch1@part_inside.Part” = “Side” - 6
 
-可以在方程式、全局变量和尺寸 对话框的顺序视图<img src="./image-20240824190739307.png" alt="image-20240824190739307" style="zoom:50%;" />中查看求解顺序。
+可以在方程式、全局变量和尺寸 对话框的顺序视图![](Data/image-20240824190739307.png)中查看求解顺序。
 
 #### 4.2.2、特定的实例
 
