@@ -6,7 +6,7 @@
 
 [魔界复兴之路](Games/play.jahysama-anime.com/index.html)
 
-[变身派蒙的飞行挑战](Games/play.jahysama-anime.com/index.html)
+[变身派蒙的飞行挑战](Games/webstatic.mihoyo.com/webstatic.mihoyo.com/ys/event/e20200501fly/index.html)
 
 [肖尔的海盗船](Games/肖尔的海盗船/肖尔的海盗船.swf)
 
