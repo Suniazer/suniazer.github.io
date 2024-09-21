@@ -8,6 +8,8 @@
 
 [变身派蒙的飞行挑战](Games/play.jahysama-anime.com/index.html)
 
+[肖尔的海盗船](Games/肖尔的海盗船/肖尔的海盗船.swf)
+
 ## 一、用户界面
 
 ### 1.1、颜色
