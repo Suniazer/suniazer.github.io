@@ -8,9 +8,11 @@
 
 [变身派蒙的飞行挑战](Games/webstatic.mihoyo.com/webstatic.mihoyo.com/ys/event/e20200501fly/index.html)
 
-[肖尔的海盗船](Games/肖尔的海盗船/肖尔的海盗船.swf)
+[chrome-SaveAllResources-master.zip](Tool/chrome-SaveAllResources-master.zip)
 
-[沈陽化工大學機械壹捌零壹班畢業留念](Data/output.mp4)
+[肖尔的海盗船.swf](Games/肖尔的海盗船/肖尔的海盗船.swf)
+
+[沈陽化工大學機械壹捌零壹班畢業留念.mp4](Data/output.mp4)
 
 ## 一、用户界面
 
