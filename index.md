@@ -1,6 +1,9 @@
 > [!NOTE]
 >
 > 绘图随笔 2024.08 SolidWorks 2024
+> 添加计数器 2024.12
+
+![:name](https://count.getloli.com/@:name)
 
 ## 零、游戏
 
