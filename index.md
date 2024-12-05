@@ -1,7 +1,6 @@
 > [!NOTE]
 >
-> 绘图随笔 2024.08 SolidWorks 2024
-> 添加计数器 2024.12
+> 随笔 2024.12 SolidWorks 2024
 
 ![:name](https://count.getloli.com/@:name)
 
