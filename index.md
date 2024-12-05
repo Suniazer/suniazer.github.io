@@ -2,7 +2,7 @@
 >
 > 随笔 2024.12 SolidWorks 2024
 
-![:name](https://count.getloli.com/@:name)
+![](https://count.getloli.com/@:Suniazer?name=%3ASuniazer&theme=capoo-2&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## 零、游戏
 
