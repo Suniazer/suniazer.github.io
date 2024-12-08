@@ -23,8 +23,9 @@
                 var t = (t_1 + t_2) / 2;
                 var q = (Roller_Weight / Roller_Length);
                 var y_max = - (q * Math.pow(Roller_A,2)) / (8 * t);
-                var result = `滚筒转速：${roller_speed}[r/min];\r\n紧边张力：${t_1}[N];松边张力：${t_2}[N];不工作时张力：${t}[N];\r\n皮带均布载荷：${q}[N/mm];垂度：${y_max}[mm]`;
-                alert(result);
+                var result = `滚筒转速：${roller_speed}[r/min];\r\n紧边张力：${t_1}[N];\r\n松边张力：${t_2}[N];\r\n不工作时张力：${t}[N];\r\n皮带均布载荷：${q}[N/mm];\r\n垂度：${y_max}[mm]`;
+                var calu_info = document.getElementById('calu_info');
+                calu_info.innerHTML = result;
             }
             function printHtml()
             {
@@ -38,12 +39,11 @@
         <div>
             <div class="list-group" style="margin: auto;width: 80%;height: 90%;">
                 <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
-                    图号/项目号/质检
+                    图号/项目号
                 </button>
                 <button type="button" class="list-group-item list-group-item-action">
                     <input id="page_info1" type="text">
                     <input id="page_info2" type="text">
-                    <input id="page_info3" type="text">
                 </button>
                 <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
                     电机功率（KW）
@@ -102,6 +102,8 @@
                 <button type="button" onclick="calu()" class="list-group-item list-group-item-action">
                     计算
                 </button>
+                <p></p>
+                <p id="calu_info"></p>
                 <button type="button" onclick="printHtml()" class="list-group-item list-group-item-action">
                     打印
                 </button>
