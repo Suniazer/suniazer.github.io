@@ -23,7 +23,7 @@
                 var t = (t_1 + t_2) / 2;
                 var q = (Roller_Weight / Roller_Length);
                 var y_max = - (q * Math.pow(Roller_A,2)) / (8 * t);
-                var result = `滚筒转速：${roller_speed}[r/min];\r\n紧边张力：${t_1}[N];\r\n松边张力：${t_2}[N];\r\n不工作时张力：${t}[N];\r\n皮带均布载荷：${q}[N/mm];\r\n垂度：${y_max}[mm]`;
+                var result = `滚筒转速：${roller_speed}[r/min];<br/>紧边张力：${t_1}[N];<br/>松边张力：${t_2}[N];<br/>不工作时张力：${t}[N];<br/>皮带均布载荷：${q}[N/mm];<br/>垂度：${y_max}[mm]`;
                 var calu_info = document.getElementById('calu_info');
                 calu_info.innerHTML = result;
             }
