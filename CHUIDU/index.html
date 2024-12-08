@@ -1,0 +1,111 @@
+<html>
+    <head>
+        <link href="./css/bootstrap.css" rel ="stylesheet">
+        <meta charset = "utf-8" > 
+        <title> 计算 </title> 
+        <script language="JavaScript">
+            function calu()
+            {
+                var motor_power = parseFloat(document.getElementById('motor_power').value);
+                var motor_speed = parseFloat(document.getElementById('motor_speed').value);
+                var driving_count = parseFloat(document.getElementById('driving_count').value);
+                var driven_count = parseFloat(document.getElementById('driven_count').value);
+                var Roller_R = parseFloat(document.getElementById('Roller_R').value);
+                var Roller_Rad = parseFloat(document.getElementById('Roller_Rad').value);
+                var Roller_Weight = parseFloat(document.getElementById('Roller_Weight').value);
+                var Roller_Length = parseFloat(document.getElementById('Roller_Length').value);
+                var Roller_A = parseFloat(document.getElementById('Roller_A').value);
+                var roller_speed = motor_speed * (driving_count / driven_count);
+                var alpha = (Roller_Rad/180) * Math.PI;
+                var e_ua = Math.pow(Math.E , 0.25 * alpha);
+                var t_2 = (9550 * motor_power * (0.9 / roller_speed)) / ((e_ua - 1) * Roller_R)
+                var t_1 = e_ua * t_2;
+                var t = (t_1 + t_2) / 2;
+                var q = (Roller_Weight / Roller_Length);
+                var y_max = - (q * Math.pow(Roller_A,2)) / (8 * t);
+                var result = `滚筒转速：${roller_speed}[r/min];\r\n紧边张力：${t_1}[N];松边张力：${t_2}[N];不工作时张力：${t}[N];\r\n皮带均布载荷：${q}[N/mm];垂度：${y_max}[mm]`;
+                alert(result);
+            }
+            function printHtml()
+            {
+                window.print();
+            }
+
+        </script>
+    </head>
+    <body>
+        <h2 style="margin: 20px;">在下面输入参数；点击确定即可计算</h2>
+        <div>
+            <div class="list-group" style="margin: auto;width: 80%;height: 90%;">
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    图号/项目号/质检
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="page_info1" type="text">
+                    <input id="page_info2" type="text">
+                    <input id="page_info3" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    电机功率（KW）
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="motor_power" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    电机转速（r/min）
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="motor_speed" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    主动链轮齿数
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="driving_count" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    从动链轮齿数
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="driven_count" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    滚筒半径（m）
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="Roller_R" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    皮带包角（°）
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="Roller_Rad" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    皮带重量（N）
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="Roller_Weight" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    皮带长度（mm）
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="Roller_Length" type="text">
+                </button>
+                <button type="button" class="list-group-item list-group-item-action active" aria-current="true">
+                    滚筒中心距（mm）
+                </button>
+                <button type="button" class="list-group-item list-group-item-action">
+                    <input id="Roller_A" type="text">
+                </button>
+                <button type="button" onclick="calu()" class="list-group-item list-group-item-action">
+                    计算
+                </button>
+                <button type="button" onclick="printHtml()" class="list-group-item list-group-item-action">
+                    打印
+                </button>
+            </div>
+        </div>
+    </body>
+</html>
