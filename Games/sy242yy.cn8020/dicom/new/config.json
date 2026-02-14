@@ -1,8 +1,0 @@
-{
-  "GPUBenchmarksURL": "./dicomviewer-cornerstone/GPUbenchmarks",
-  "toolsBar": {
-	  "aboutUsVisibility": false,
-	  "majModeVisibility": true
-  },
-  "logoURL": " "
-}
