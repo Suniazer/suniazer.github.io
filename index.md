@@ -12,6 +12,8 @@
 
 [chrome-SaveAllResources-master.zip](Tool/chrome-SaveAllResources-master.zip)
 
+[Save-All-Resources-main.zip](Tool/Save-All-Resources-main.zip)
+
 [肖尔的海盗船.swf](Games/肖尔的海盗船/肖尔的海盗船.swf)
 
 [沈陽化工大學機械壹捌零壹班畢業留念.mp4](Data/output.mp4)
